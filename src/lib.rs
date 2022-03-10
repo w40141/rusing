@@ -1,3 +1,5 @@
+pub mod atoms;
+
 #[cfg(test)]
 mod tests {
     #[test]
